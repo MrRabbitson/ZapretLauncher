@@ -19,6 +19,6 @@ Zapret Launcher — это удобная графическая оболочк�
 
 ## 📥 Установка
 
-1. Скачайте последнюю версию из [раздела Releases](ttps://github.com/MrRabbitson/ZapretLauncher/releases/)
+1. Скачайте последнюю версию из [Раздела Releases](https://github.com/MrRabbitson/ZapretLauncher/releases/)
 2. Распакуйте архив
 3. Запустите `ZapretLauncher.exe`
